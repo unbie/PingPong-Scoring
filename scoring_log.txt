@@ -320,3 +320,17 @@
 2026-02-22 16:22:12,878 - INFO - Score! Player A scored, Source: voice, Current Score A:2 - B:1
 2026-02-22 16:22:35,295 - INFO - Score! Player B scored, Source: voice, Current Score A:2 - B:2
 2026-02-22 16:22:45,922 - INFO - Score! Player A scored, Source: voice, Current Score A:3 - B:2
+2026-02-22 16:30:39,739 - INFO - Score! Player A scored, Source: voice, Current Score A:1 - B:0
+2026-02-22 16:30:39,801 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\python\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-02-22 16:30:39,801 - INFO - Using writeable comtypes cache directory: 'D:\python\lib\site-packages\comtypes\gen'
+2026-02-22 16:30:47,300 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-22 16:30:49,515 - INFO - Manual adjust: Player A -1, Score A:1 - B:0
+2026-02-22 16:30:50,050 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-22 16:30:50,947 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-22 16:30:51,526 - INFO - Manual adjust: Player A +1, Score A:4 - B:0
+2026-02-22 16:30:53,675 - INFO - Manual adjust: Player B +1, Score A:4 - B:1
+2026-02-22 16:30:54,338 - INFO - Manual adjust: Player B +1, Score A:4 - B:2
+2026-02-22 16:30:54,993 - INFO - Manual adjust: Player B -1, Score A:4 - B:1
+2026-02-22 16:30:55,699 - INFO - Manual adjust: Player B +1, Score A:4 - B:2
+2026-02-22 16:30:56,340 - INFO - Manual adjust: Player B +1, Score A:4 - B:3
+2026-02-22 16:30:56,842 - INFO - Manual adjust: Player B -1, Score A:4 - B:2
