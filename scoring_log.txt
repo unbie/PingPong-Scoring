@@ -646,3 +646,257 @@
 2026-02-23 16:32:36,016 - INFO - Score! Player B scored, Source: pose, Current Score A:0 - B:1
 2026-02-23 16:32:36,097 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\python\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
 2026-02-23 16:32:36,097 - INFO - Using writeable comtypes cache directory: 'D:\python\lib\site-packages\comtypes\gen'
+2026-02-23 17:57:03,502 - INFO - Score! Player B scored, Source: pose, Current Score A:0 - B:1
+2026-02-23 17:57:03,580 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\python\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-02-23 17:57:03,582 - INFO - Using writeable comtypes cache directory: 'D:\python\lib\site-packages\comtypes\gen'
+2026-02-23 17:57:30,254 - INFO - Score! Player A scored, Source: pose, Current Score A:1 - B:1
+2026-02-23 17:57:48,515 - INFO - Score! Player A scored, Source: pose, Current Score A:2 - B:1
+2026-02-23 17:57:58,282 - INFO - Score! Player B scored, Source: pose, Current Score A:2 - B:2
+2026-02-23 17:58:07,519 - INFO - Score! Player B scored, Source: pose, Current Score A:2 - B:3
+2026-02-23 17:58:19,037 - INFO - Score! Player B scored, Source: pose, Current Score A:2 - B:4
+2026-02-23 17:58:30,611 - INFO - Score! Player A scored, Source: pose, Current Score A:3 - B:4
+2026-02-23 17:58:47,188 - INFO - Score! Player A scored, Source: pose, Current Score A:4 - B:4
+2026-02-23 17:59:00,700 - INFO - Score! Player A scored, Source: pose, Current Score A:5 - B:4
+2026-02-23 17:59:10,910 - INFO - Score! Player B scored, Source: pose, Current Score A:5 - B:5
+2026-02-23 17:59:20,294 - INFO - Score! Player B scored, Source: pose, Current Score A:5 - B:6
+2026-02-23 17:59:34,081 - INFO - Score! Player B scored, Source: pose, Current Score A:5 - B:7
+2026-02-23 17:59:45,768 - INFO - Score! Player A scored, Source: pose, Current Score A:6 - B:7
+2026-02-23 18:00:01,639 - INFO - Score! Player B scored, Source: pose, Current Score A:6 - B:8
+2026-02-23 18:00:21,289 - INFO - Score! Player A scored, Source: pose, Current Score A:7 - B:8
+2026-02-23 18:00:25,302 - INFO - Score! Player A scored, Source: pose, Current Score A:8 - B:8
+2026-02-23 18:00:34,182 - INFO - Manual adjust: Player A +1, Score A:9 - B:8
+2026-02-23 18:00:36,232 - INFO - Manual adjust: Player A -1, Score A:8 - B:8
+2026-02-23 18:00:36,672 - INFO - Manual adjust: Player A -1, Score A:7 - B:8
+2026-02-23 18:00:37,837 - INFO - Manual adjust: Player B +1, Score A:7 - B:9
+2026-02-23 18:00:52,367 - INFO - Score! Player A scored, Source: pose, Current Score A:8 - B:9
+2026-02-23 18:01:09,126 - INFO - Manual adjust: Player B +1, Score A:8 - B:10
+2026-02-23 18:01:09,126 - INFO - Game Over! Player B wins! Score A:8 - B:10, Total Games A:0 - B:1
+2026-02-23 18:02:06,897 - INFO - Score! Player A scored, Source: pose, Current Score A:1 - B:0
+2026-02-23 18:02:19,314 - INFO - Score! Player A scored, Source: pose, Current Score A:2 - B:0
+2026-02-23 18:02:32,667 - INFO - Score! Player A scored, Source: pose, Current Score A:3 - B:0
+2026-02-23 18:02:53,105 - INFO - Score! Player A scored, Source: pose, Current Score A:4 - B:0
+2026-02-23 18:03:07,288 - INFO - Manual adjust: Player B +1, Score A:4 - B:1
+2026-02-23 18:03:17,085 - INFO - Manual adjust: Player B +1, Score A:4 - B:2
+2026-02-23 18:03:26,117 - INFO - Score! Player A scored, Source: pose, Current Score A:5 - B:2
+2026-02-23 18:03:38,580 - INFO - Manual adjust: Player B +1, Score A:5 - B:3
+2026-02-23 18:03:48,918 - INFO - Manual adjust: Player B +1, Score A:5 - B:4
+2026-02-23 18:03:49,062 - INFO - Manual adjust: Player B +1, Score A:5 - B:5
+2026-02-23 18:03:50,769 - INFO - Manual adjust: Player B -1, Score A:5 - B:4
+2026-02-23 18:04:03,997 - INFO - Manual adjust: Player A +1, Score A:6 - B:4
+2026-02-23 18:04:16,722 - INFO - Score! Player A scored, Source: pose, Current Score A:7 - B:4
+2026-02-23 18:04:30,449 - INFO - Score! Player A scored, Source: pose, Current Score A:8 - B:4
+2026-02-23 18:04:40,026 - INFO - Score! Player A scored, Source: pose, Current Score A:9 - B:4
+2026-02-23 18:05:03,396 - INFO - Manual adjust: Player B +1, Score A:9 - B:5
+2026-02-23 18:05:03,568 - INFO - Manual adjust: Player B +1, Score A:9 - B:6
+2026-02-23 18:05:03,856 - INFO - Manual adjust: Player B +1, Score A:9 - B:7
+2026-02-23 18:05:17,351 - INFO - Manual adjust: Player A +1, Score A:10 - B:7
+2026-02-23 18:05:17,351 - INFO - Game Over! Player A wins! Score A:10 - B:7, Total Games A:1 - B:1
+2026-02-23 18:05:47,086 - INFO - Score! Player B scored, Source: pose, Current Score A:0 - B:1
+2026-02-23 18:06:01,081 - INFO - Manual adjust: Player A +1, Score A:1 - B:1
+2026-02-23 18:06:08,440 - INFO - Manual adjust: Player B +1, Score A:1 - B:2
+2026-02-23 18:06:16,585 - INFO - Manual adjust: Player A +1, Score A:2 - B:2
+2026-02-23 18:06:33,439 - INFO - Manual adjust: Player B +1, Score A:2 - B:3
+2026-02-23 18:06:33,640 - INFO - Manual adjust: Player B +1, Score A:2 - B:4
+2026-02-23 18:06:46,140 - INFO - Manual adjust: Player B +1, Score A:2 - B:5
+2026-02-23 18:06:55,306 - INFO - Manual adjust: Player B +1, Score A:2 - B:6
+2026-02-23 18:07:02,746 - INFO - Manual adjust: Player A +1, Score A:3 - B:6
+2026-02-23 18:07:13,495 - INFO - Manual adjust: Player B +1, Score A:3 - B:7
+2026-02-23 18:07:23,732 - INFO - Manual adjust: Player A +1, Score A:4 - B:7
+2026-02-23 18:07:31,223 - INFO - Manual adjust: Player B +1, Score A:4 - B:8
+2026-02-23 18:07:40,815 - INFO - Manual adjust: Player B +1, Score A:4 - B:9
+2026-02-23 18:07:48,223 - INFO - Manual adjust: Player A +1, Score A:5 - B:9
+2026-02-23 18:08:01,244 - INFO - Manual adjust: Player B +1, Score A:5 - B:10
+2026-02-23 18:08:01,244 - INFO - Game Over! Player B wins! Score A:5 - B:10, Total Games A:1 - B:2
+2026-02-23 18:08:27,670 - INFO - Score! Player A scored, Source: pose, Current Score A:1 - B:0
+2026-02-23 18:08:44,089 - INFO - Score! Player A scored, Source: pose, Current Score A:2 - B:0
+2026-02-23 18:09:34,312 - INFO - Manual adjust: Player B +1, Score A:2 - B:1
+2026-02-23 18:09:34,376 - INFO - Manual adjust: Player A +1, Score A:3 - B:1
+2026-02-23 18:09:34,548 - INFO - Manual adjust: Player B +1, Score A:3 - B:2
+2026-02-23 18:09:34,618 - INFO - Manual adjust: Player A +1, Score A:4 - B:2
+2026-02-23 18:09:34,711 - INFO - Manual adjust: Player B +1, Score A:4 - B:3
+2026-02-23 18:09:35,220 - INFO - Manual adjust: Player B +1, Score A:4 - B:4
+2026-02-23 18:10:00,012 - INFO - Manual adjust: Player B +1, Score A:4 - B:5
+2026-02-23 18:10:00,254 - INFO - Manual adjust: Player B +1, Score A:4 - B:6
+2026-02-23 18:10:07,489 - INFO - Manual adjust: Player A +1, Score A:5 - B:6
+2026-02-23 18:10:29,246 - INFO - Manual adjust: Player B +1, Score A:5 - B:7
+2026-02-23 18:10:31,567 - INFO - Manual adjust: Player A +1, Score A:6 - B:7
+2026-02-23 18:10:31,744 - INFO - Manual adjust: Player A +1, Score A:7 - B:7
+2026-02-23 18:10:42,821 - INFO - Manual adjust: Player B +1, Score A:7 - B:8
+2026-02-23 18:10:55,635 - INFO - Manual adjust: Player A +1, Score A:8 - B:8
+2026-02-23 18:11:07,663 - INFO - Manual adjust: Player A +1, Score A:9 - B:8
+2026-02-23 18:11:29,000 - INFO - Manual adjust: Player B +1, Score A:9 - B:9
+2026-02-23 18:11:29,170 - INFO - Manual adjust: Player B +1, Score A:9 - B:10
+2026-02-23 18:11:39,278 - INFO - Manual adjust: Player A +1, Score A:10 - B:10
+2026-02-23 18:11:57,005 - INFO - Manual adjust: Player A +1, Score A:11 - B:10
+2026-02-23 18:11:57,539 - INFO - Manual adjust: Player A +1, Score A:12 - B:10
+2026-02-23 18:11:57,539 - INFO - Game Over! Player A wins! Score A:12 - B:10, Total Games A:2 - B:2
+2026-02-23 18:12:10,555 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:12:38,383 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-23 18:12:38,579 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-23 18:12:39,196 - INFO - Manual adjust: Player B +1, Score A:3 - B:1
+2026-02-23 18:12:49,848 - INFO - Manual adjust: Player B +1, Score A:3 - B:2
+2026-02-23 18:12:59,853 - INFO - Manual adjust: Player B +1, Score A:3 - B:3
+2026-02-23 18:13:06,536 - INFO - Manual adjust: Player A +1, Score A:4 - B:3
+2026-02-23 18:13:14,707 - INFO - Manual adjust: Player A +1, Score A:5 - B:3
+2026-02-23 18:13:25,978 - INFO - Manual adjust: Player B +1, Score A:5 - B:4
+2026-02-23 18:13:42,499 - INFO - Manual adjust: Player A +1, Score A:6 - B:4
+2026-02-23 18:14:04,933 - INFO - Manual adjust: Player A +1, Score A:7 - B:4
+2026-02-23 18:14:05,533 - INFO - Manual adjust: Player B +1, Score A:7 - B:5
+2026-02-23 18:14:12,988 - INFO - Manual adjust: Player A +1, Score A:8 - B:5
+2026-02-23 18:14:20,399 - INFO - Manual adjust: Player B +1, Score A:8 - B:6
+2026-02-23 18:14:31,102 - INFO - Manual adjust: Player B +1, Score A:8 - B:7
+2026-02-23 18:14:38,335 - INFO - Manual adjust: Player A +1, Score A:9 - B:7
+2026-02-23 18:14:46,014 - INFO - Manual adjust: Player A +1, Score A:10 - B:7
+2026-02-23 18:14:46,014 - INFO - Game Over! Player A wins! Score A:10 - B:7, Total Games A:3 - B:2
+2026-02-23 18:15:14,587 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:15:15,015 - INFO - Manual adjust: Player B +1, Score A:1 - B:1
+2026-02-23 18:15:23,504 - INFO - Score! Player B scored, Source: pose, Current Score A:1 - B:2
+2026-02-23 18:15:30,727 - INFO - Manual adjust: Player A +1, Score A:2 - B:2
+2026-02-23 18:15:40,708 - INFO - Manual adjust: Player A +1, Score A:3 - B:2
+2026-02-23 18:15:48,838 - INFO - Manual adjust: Player B +1, Score A:3 - B:3
+2026-02-23 18:16:00,332 - INFO - Manual adjust: Player B +1, Score A:3 - B:4
+2026-02-23 18:16:00,511 - INFO - Manual adjust: Player B +1, Score A:3 - B:5
+2026-02-23 18:16:29,998 - INFO - Manual adjust: Player A +1, Score A:4 - B:5
+2026-02-23 18:16:40,712 - INFO - Manual adjust: Player B +1, Score A:4 - B:6
+2026-02-23 18:16:50,444 - INFO - Manual adjust: Player B +1, Score A:4 - B:7
+2026-02-23 18:17:00,863 - INFO - Manual adjust: Player A +1, Score A:5 - B:7
+2026-02-23 18:17:08,589 - INFO - Manual adjust: Player A +1, Score A:6 - B:7
+2026-02-23 18:17:10,364 - INFO - Manual adjust: Player A -1, Score A:5 - B:7
+2026-02-23 18:17:10,837 - INFO - Manual adjust: Player B +1, Score A:5 - B:8
+2026-02-23 18:17:26,531 - INFO - Manual adjust: Player B +1, Score A:5 - B:9
+2026-02-23 18:17:46,290 - INFO - Manual adjust: Player A +1, Score A:6 - B:9
+2026-02-23 18:17:46,486 - INFO - Manual adjust: Player A +1, Score A:7 - B:9
+2026-02-23 18:18:00,924 - INFO - Manual adjust: Player A +1, Score A:8 - B:9
+2026-02-23 18:18:09,892 - INFO - Manual adjust: Player B +1, Score A:8 - B:10
+2026-02-23 18:18:09,894 - INFO - Game Over! Player B wins! Score A:8 - B:10, Total Games A:3 - B:3
+2026-02-23 18:18:38,698 - INFO - Manual adjust: Player A -1, Score A:0 - B:0
+2026-02-23 18:18:38,896 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:19:00,374 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-23 18:19:16,902 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-23 18:19:17,578 - INFO - Manual adjust: Player B +1, Score A:3 - B:1
+2026-02-23 18:19:33,088 - INFO - Manual adjust: Player A +1, Score A:4 - B:1
+2026-02-23 18:19:40,293 - INFO - Manual adjust: Player A +1, Score A:5 - B:1
+2026-02-23 18:20:00,174 - INFO - Manual adjust: Player A +1, Score A:6 - B:1
+2026-02-23 18:20:10,360 - INFO - Manual adjust: Player A +1, Score A:7 - B:1
+2026-02-23 18:20:20,402 - INFO - Manual adjust: Player B +1, Score A:7 - B:2
+2026-02-23 18:20:30,792 - INFO - Manual adjust: Player A +1, Score A:8 - B:2
+2026-02-23 18:20:38,985 - INFO - Manual adjust: Player B +1, Score A:8 - B:3
+2026-02-23 18:20:39,065 - INFO - Manual adjust: Player B +1, Score A:8 - B:4
+2026-02-23 18:20:47,138 - INFO - Manual adjust: Player B -1, Score A:8 - B:3
+2026-02-23 18:20:47,686 - INFO - Manual adjust: Player A +1, Score A:9 - B:3
+2026-02-23 18:20:55,290 - INFO - Manual adjust: Player B +1, Score A:9 - B:4
+2026-02-23 18:21:04,376 - INFO - Manual adjust: Player B +1, Score A:9 - B:5
+2026-02-23 18:21:28,375 - INFO - Manual adjust: Player B +1, Score A:9 - B:6
+2026-02-23 18:21:28,524 - INFO - Manual adjust: Player B +1, Score A:9 - B:7
+2026-02-23 18:21:36,676 - INFO - Manual adjust: Player A +1, Score A:10 - B:7
+2026-02-23 18:21:36,676 - INFO - Game Over! Player A wins! Score A:10 - B:7, Total Games A:4 - B:3
+2026-02-23 18:21:36,676 - INFO - Match Over! Player A wins! Final Games A:4 - B:3
+2026-02-23 18:29:57,227 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:29:57,336 - INFO - Imported existing <module 'comtypes.gen' from 'D:\\python\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-02-23 18:29:57,337 - INFO - Using writeable comtypes cache directory: 'D:\python\lib\site-packages\comtypes\gen'
+2026-02-23 18:29:58,231 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-23 18:29:58,412 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-23 18:29:58,613 - INFO - Manual adjust: Player A +1, Score A:4 - B:0
+2026-02-23 18:29:58,753 - INFO - Manual adjust: Player A +1, Score A:5 - B:0
+2026-02-23 18:29:58,921 - INFO - Manual adjust: Player A +1, Score A:6 - B:0
+2026-02-23 18:29:59,127 - INFO - Manual adjust: Player A +1, Score A:7 - B:0
+2026-02-23 18:29:59,248 - INFO - Manual adjust: Player A +1, Score A:8 - B:0
+2026-02-23 18:29:59,464 - INFO - Manual adjust: Player A +1, Score A:9 - B:0
+2026-02-23 18:29:59,675 - INFO - Manual adjust: Player A +1, Score A:10 - B:0
+2026-02-23 18:30:01,162 - INFO - Manual adjust: Player A +1, Score A:11 - B:0
+2026-02-23 18:30:01,162 - INFO - Game Over! Player A wins! Score A:11 - B:0, Total Games A:1 - B:0
+2026-02-23 18:30:02,645 - INFO - Manual adjust: Player B +1, Score A:0 - B:1
+2026-02-23 18:30:02,749 - INFO - Manual adjust: Player B +1, Score A:0 - B:2
+2026-02-23 18:30:02,930 - INFO - Manual adjust: Player B +1, Score A:0 - B:3
+2026-02-23 18:30:03,033 - INFO - Manual adjust: Player B +1, Score A:0 - B:4
+2026-02-23 18:30:03,215 - INFO - Manual adjust: Player B +1, Score A:0 - B:5
+2026-02-23 18:30:03,314 - INFO - Manual adjust: Player B +1, Score A:0 - B:6
+2026-02-23 18:30:03,413 - INFO - Manual adjust: Player B +1, Score A:0 - B:7
+2026-02-23 18:30:03,555 - INFO - Manual adjust: Player B +1, Score A:0 - B:8
+2026-02-23 18:30:03,666 - INFO - Manual adjust: Player B +1, Score A:0 - B:9
+2026-02-23 18:30:03,973 - INFO - Manual adjust: Player B +1, Score A:0 - B:10
+2026-02-23 18:30:04,761 - INFO - Manual adjust: Player B +1, Score A:0 - B:11
+2026-02-23 18:30:04,762 - INFO - Game Over! Player B wins! Score A:0 - B:11, Total Games A:1 - B:1
+2026-02-23 18:30:05,831 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:30:06,062 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-23 18:30:06,264 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-23 18:30:06,370 - INFO - Manual adjust: Player A +1, Score A:4 - B:0
+2026-02-23 18:30:06,643 - INFO - Manual adjust: Player A +1, Score A:5 - B:0
+2026-02-23 18:30:06,746 - INFO - Manual adjust: Player A +1, Score A:6 - B:0
+2026-02-23 18:30:06,864 - INFO - Manual adjust: Player A +1, Score A:7 - B:0
+2026-02-23 18:30:07,021 - INFO - Manual adjust: Player A +1, Score A:8 - B:0
+2026-02-23 18:30:07,129 - INFO - Manual adjust: Player A +1, Score A:9 - B:0
+2026-02-23 18:30:07,524 - INFO - Manual adjust: Player A +1, Score A:10 - B:0
+2026-02-23 18:30:09,240 - INFO - Manual adjust: Player A +1, Score A:11 - B:0
+2026-02-23 18:30:09,240 - INFO - Game Over! Player A wins! Score A:11 - B:0, Total Games A:2 - B:1
+2026-02-23 18:30:10,322 - INFO - Manual adjust: Player B +1, Score A:0 - B:1
+2026-02-23 18:30:10,488 - INFO - Manual adjust: Player B +1, Score A:0 - B:2
+2026-02-23 18:30:10,709 - INFO - Manual adjust: Player B +1, Score A:0 - B:3
+2026-02-23 18:30:12,621 - INFO - Manual adjust: Player B +1, Score A:0 - B:4
+2026-02-23 18:30:12,781 - INFO - Manual adjust: Player B +1, Score A:0 - B:5
+2026-02-23 18:30:12,897 - INFO - Manual adjust: Player B +1, Score A:0 - B:6
+2026-02-23 18:30:13,098 - INFO - Manual adjust: Player B +1, Score A:0 - B:7
+2026-02-23 18:30:13,210 - INFO - Manual adjust: Player B +1, Score A:0 - B:8
+2026-02-23 18:30:13,425 - INFO - Manual adjust: Player B +1, Score A:0 - B:9
+2026-02-23 18:30:13,787 - INFO - Manual adjust: Player B +1, Score A:0 - B:10
+2026-02-23 18:30:15,025 - INFO - Manual adjust: Player B +1, Score A:0 - B:11
+2026-02-23 18:30:15,025 - INFO - Game Over! Player B wins! Score A:0 - B:11, Total Games A:2 - B:2
+2026-02-23 18:30:23,238 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:30:23,468 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-23 18:30:23,642 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-23 18:30:23,819 - INFO - Manual adjust: Player A +1, Score A:4 - B:0
+2026-02-23 18:30:23,948 - INFO - Manual adjust: Player A +1, Score A:5 - B:0
+2026-02-23 18:30:24,137 - INFO - Manual adjust: Player A +1, Score A:6 - B:0
+2026-02-23 18:30:24,330 - INFO - Manual adjust: Player A +1, Score A:7 - B:0
+2026-02-23 18:30:24,429 - INFO - Manual adjust: Player A +1, Score A:8 - B:0
+2026-02-23 18:30:24,535 - INFO - Manual adjust: Player A +1, Score A:9 - B:0
+2026-02-23 18:30:24,981 - INFO - Manual adjust: Player B +1, Score A:9 - B:1
+2026-02-23 18:30:25,144 - INFO - Manual adjust: Player B +1, Score A:9 - B:2
+2026-02-23 18:30:25,281 - INFO - Manual adjust: Player B +1, Score A:9 - B:3
+2026-02-23 18:30:25,417 - INFO - Manual adjust: Player B +1, Score A:9 - B:4
+2026-02-23 18:30:25,526 - INFO - Manual adjust: Player B +1, Score A:9 - B:5
+2026-02-23 18:30:25,650 - INFO - Manual adjust: Player B +1, Score A:9 - B:6
+2026-02-23 18:30:25,770 - INFO - Manual adjust: Player B +1, Score A:9 - B:7
+2026-02-23 18:30:25,900 - INFO - Manual adjust: Player B +1, Score A:9 - B:8
+2026-02-23 18:30:26,024 - INFO - Manual adjust: Player B +1, Score A:9 - B:9
+2026-02-23 18:30:26,153 - INFO - Manual adjust: Player B +1, Score A:9 - B:10
+2026-02-23 18:30:26,766 - INFO - Manual adjust: Player A +1, Score A:10 - B:10
+2026-02-23 18:30:27,959 - INFO - Manual adjust: Player B +1, Score A:10 - B:11
+2026-02-23 18:30:30,366 - INFO - Manual adjust: Player B +1, Score A:10 - B:12
+2026-02-23 18:30:30,366 - INFO - Game Over! Player B wins! Score A:10 - B:12, Total Games A:2 - B:3
+2026-02-23 18:30:33,244 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:30:33,494 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-23 18:30:33,675 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-23 18:30:33,807 - INFO - Manual adjust: Player A +1, Score A:4 - B:0
+2026-02-23 18:30:34,005 - INFO - Manual adjust: Player A +1, Score A:5 - B:0
+2026-02-23 18:30:34,188 - INFO - Manual adjust: Player A +1, Score A:6 - B:0
+2026-02-23 18:30:34,331 - INFO - Manual adjust: Player A +1, Score A:7 - B:0
+2026-02-23 18:30:34,676 - INFO - Manual adjust: Player A +1, Score A:8 - B:0
+2026-02-23 18:30:34,924 - INFO - Manual adjust: Player A +1, Score A:9 - B:0
+2026-02-23 18:30:35,117 - INFO - Manual adjust: Player A +1, Score A:10 - B:0
+2026-02-23 18:30:35,289 - INFO - Manual adjust: Player A +1, Score A:11 - B:0
+2026-02-23 18:30:35,289 - INFO - Game Over! Player A wins! Score A:11 - B:0, Total Games A:3 - B:3
+2026-02-23 18:30:35,871 - INFO - Manual adjust: Player A +1, Score A:1 - B:0
+2026-02-23 18:30:36,028 - INFO - Manual adjust: Player A +1, Score A:2 - B:0
+2026-02-23 18:30:36,599 - INFO - Manual adjust: Player A +1, Score A:3 - B:0
+2026-02-23 18:30:36,859 - INFO - Manual adjust: Player A +1, Score A:4 - B:0
+2026-02-23 18:30:37,189 - INFO - Manual adjust: Player A +1, Score A:5 - B:0
+2026-02-23 18:30:37,777 - INFO - Manual adjust: Player A +1, Score A:6 - B:0
+2026-02-23 18:30:38,129 - INFO - Manual adjust: Player A +1, Score A:7 - B:0
+2026-02-23 18:30:38,684 - INFO - Manual adjust: Player A +1, Score A:8 - B:0
+2026-02-23 18:30:39,044 - INFO - Manual adjust: Player B +1, Score A:8 - B:1
+2026-02-23 18:30:39,253 - INFO - Manual adjust: Player B +1, Score A:8 - B:2
+2026-02-23 18:30:39,394 - INFO - Manual adjust: Player B +1, Score A:8 - B:3
+2026-02-23 18:30:39,530 - INFO - Manual adjust: Player B +1, Score A:8 - B:4
+2026-02-23 18:30:39,654 - INFO - Manual adjust: Player B +1, Score A:8 - B:5
+2026-02-23 18:30:39,797 - INFO - Manual adjust: Player B +1, Score A:8 - B:6
+2026-02-23 18:30:39,922 - INFO - Manual adjust: Player B +1, Score A:8 - B:7
+2026-02-23 18:30:40,052 - INFO - Manual adjust: Player B +1, Score A:8 - B:8
+2026-02-23 18:30:40,549 - INFO - Manual adjust: Player B +1, Score A:8 - B:9
+2026-02-23 18:30:40,711 - INFO - Manual adjust: Player B +1, Score A:8 - B:10
+2026-02-23 18:30:41,218 - INFO - Manual adjust: Player A +1, Score A:9 - B:10
+2026-02-23 18:30:41,590 - INFO - Manual adjust: Player A +1, Score A:10 - B:10
+2026-02-23 18:30:42,821 - INFO - Manual adjust: Player A +1, Score A:11 - B:10
+2026-02-23 18:30:43,533 - INFO - Manual adjust: Player A +1, Score A:12 - B:10
+2026-02-23 18:30:43,533 - INFO - Game Over! Player A wins! Score A:12 - B:10, Total Games A:4 - B:3
+2026-02-23 18:30:43,533 - INFO - Match Over! Player A wins! Final Games A:4 - B:3

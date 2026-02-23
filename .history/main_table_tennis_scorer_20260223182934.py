@@ -465,7 +465,7 @@ class TableTennisScorer:
         return True
     
     def _check_game_over(self):
-        """统一胜负判定：必须先获得WINNING_SCORE分且领先2分才获胜"""
+        """统一胜负判定：必须先获得WINNING_SCORE分且领先2分才获胜、分"""
         score_diff = abs(self.score_a - self.score_b)
         max_score = max(self.score_a, self.score_b)
 
